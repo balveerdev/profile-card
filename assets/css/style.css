@@ -627,6 +627,22 @@ flex-direction: column;
 
 }
 
+.social-container i {
+    color: white;
+    font-size: 20px;
+  }
+
+  .social-container button {
+    background: transparent;
+    border: none;
+    cursor: pointer;
+    margin: 5px;
+  }
+
+  .social-container a {
+    text-decoration: none;
+  }
+
 .social-container button {
 
 border: none;
